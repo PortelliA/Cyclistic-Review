@@ -1,10 +1,7 @@
 # Google Capstone Project: Cyclistic Review
 
 ## Overview
-This is my first data analysis project using Power Query, R programming, and Tableau. The analysis focuses on understanding bike usage patterns and trends within Cyclistic's customer base, particularly the differences between casual riders and annual members.
-
-## Purpose
-The purpose of this analysis is to uncover trends within the customer base and understand the differences between casual riders and annual members. The goal is to provide three actionable decisions for the marketing team.
+This is my first data analysis project! I used Power Query, R programming, and Tableau, the focus was on understanding bike usage patterns and trends within Cyclistic's customer base, particularly the differences between casual riders and annual members.  The goal is to provide three actionable decisions for the marketing team.
 
 ## Data Cleaning and Limitations
 A key limitation was the inability to calculate the exact distance traveled for each trip due to having only start and end station data. Extensive data cleansing was performed, removing 1.6 million observations, including 54,000 trips under 1 minute.
