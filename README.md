@@ -9,7 +9,7 @@ This repository contains the analysis and insights from my Google Capstone Proje
 ## Contents
 - `Cyclistic Analysis.pptx`: PowerPoint presentation summarizing the key findings and recommendations.
 - `Scipt_to_build_Cyclistic_review.r`: Text file containing the presentation script.
-- `Script build for presentation`
+- `Script build for presentation.txt`: Talking points per slide for the presentation
 
 ## Tableau Dashboard
 
