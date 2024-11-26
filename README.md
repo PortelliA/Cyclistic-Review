@@ -65,4 +65,5 @@ Partnering with local clubs, implementing an app, and distance tracking can help
 
 Thank you for reviewing this analysis.
 
+I have include the script to clean the data that was completed on R, a script of the presentation for the analysis & the Power Point for the presentation itself.
 Check out my Tableau dashboard for an interactive view of the data [here](https://public.tableau.com/views/CyclisticReview/CyclisticReview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
