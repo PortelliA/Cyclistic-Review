@@ -1,5 +1,4 @@
 # Google Capstone Project: Cyclistic Review
-# Cyclistic Bike Usage Analysis
 
 ## Overview
 This is my first data analysis project using Power Query, R programming, and Tableau. The analysis focuses on understanding bike usage patterns and trends within Cyclistic's customer base, particularly the differences between casual riders and annual members.
