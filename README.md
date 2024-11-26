@@ -7,11 +7,9 @@ This repository contains the analysis and insights from my Google Capstone Proje
 - **Objective**: Analyze and understand the usage patterns of Cyclistic bikes to provide recommendations for increasing user engagement.
 
 ## Contents
-
-- `cyclistic_analysis.Rmd`: R Markdown file containing the detailed analysis and visualizations.
-- `cyclistic_analysis.html`: HTML version of the R Markdown file for easier viewing.
-- `presentation.pptx`: PowerPoint presentation summarizing the key findings and recommendations.
-- `presentation_text.txt`: Text file containing the presentation script.
+- `Cyclistic Analysis.pptx`: PowerPoint presentation summarizing the key findings and recommendations.
+- `Scipt_to_build_Cyclistic_review.r`: Text file containing the presentation script.
+- `Script build for presentation`
 
 ## Tableau Dashboard
 
